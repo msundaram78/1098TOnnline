@@ -1,4 +1,4 @@
-result=0&
+<cashnet>result=0&
      respmessage=success&
      lname=MYERS,GRACE MARIE &
      pin=&
@@ -31,4 +31,4 @@ result=0&
      federal_id=F12345&
      service_provider_acctno=123456&
      reporting_method=O&
-     corrected=
+     corrected=</cashnet>     
